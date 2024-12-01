@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053695843692",
+    "project_id": "prak11fcm",
+    "storage_bucket": "prak11fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053695843692:android:a0917c56e6a473a5a36749",
+        "android_client_info": {
+          "package_name": "com.example.prak_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKQzL414G51w23vxAADgatEtfxI5PorU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
